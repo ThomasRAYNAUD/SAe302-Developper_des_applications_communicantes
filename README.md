@@ -1,1 +1,1 @@
-# SAe302-Developper_des_applications_communicantes
+# SAé302 | Développer des applications communicantes
